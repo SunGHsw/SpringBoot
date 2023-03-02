@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.sun.pojo.User",
+      "sourceType": "com.sun.pojo.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.user-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sun.pojo.User"
+    },
+    {
+      "name": "user.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sun.pojo.User"
+    }
+  ],
+  "hints": []
+}
